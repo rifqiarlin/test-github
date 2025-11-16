@@ -1,3 +1,4 @@
 My Previous Project
-*[Customer Segmentation] :D:\[Belimbing]\GitHub\test-github\Final Project Rifqi DS 36.pdf
- 
+-[Customer Segmentation] : Final Project Rifqi DS 36.pdf
+-[Csutomer Segmentation Dashboard] : 
+<center><img src="Dashboard Final Project.PNG" style="height:1000px;"></center>
