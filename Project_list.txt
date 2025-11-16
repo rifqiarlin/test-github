@@ -1,4 +1,3 @@
 My Previous Project
 -[Customer Segmentation] : Final Project Rifqi DS 36.pdf
--[Csutomer Segmentation Dashboard] : 
-<center><img src="Dashboard Final Project.PNG" style="height:1000px;"></center>
+-[Csutomer Segmentation Dashboard] : Dashboard Final Project.PNG
